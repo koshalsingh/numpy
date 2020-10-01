@@ -5,4 +5,3 @@ this Repository contains all the numpy basic functions which is needed in machin
 3. numpy3: It contains the creation of arrays using random numbers.
 4. numpy5: It contains the illustration of 
 5. numpy5: It contains the ilustration of fancy Indexing like mask etc.
-6. numpy5: It 
